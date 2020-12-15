@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d88e57e7-5d86-47dc-a9cc-2b22dfb11902" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/simple_Distinct.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Simple_MIN_/_Max.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608059021390</updated>
       <workItem from="1608059022432" duration="1067000" />
-      <workItem from="1608072656329" duration="285000" />
+      <workItem from="1608072656329" duration="673000" />
     </task>
     <servers />
   </component>
