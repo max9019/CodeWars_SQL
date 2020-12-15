@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d88e57e7-5d86-47dc-a9cc-2b22dfb11902" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/Simple_MIN_/_Max.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Simple_WHERE_and_ORDER_BY.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +42,15 @@
       <option name="presentableId" value="Default" />
       <updated>1608059021390</updated>
       <workItem from="1608059022432" duration="1067000" />
-      <workItem from="1608072656329" duration="673000" />
+      <workItem from="1608072656329" duration="1022000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
